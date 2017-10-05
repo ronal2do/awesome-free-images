@@ -3,6 +3,7 @@
 
 Name | Website | Type
 ------------ | ------- | --------
+FlatIcons | https://www.flaticon.com/ | Icons PNG, SVG, EPS, PSD and BASE 64 formats
 FreePik | http://www.freepik.com/ | Vectors, PSD, Icons and photos
 Images | http://www.imagespng.com/ | png
 Pixebay | https://pixabay.com/ | photos
