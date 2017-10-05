@@ -11,3 +11,4 @@ Pngimg | http://pngimg.com/ | png
 PngPix | http://www.pngpix.com/ | png
 Unsplash | https://unsplash.com/ | photos
 Vecteezy | https://pt.vecteezy.com/ | vectors
+Freebiesbug | https://freebiesbug.com/ | PSD, Icons
