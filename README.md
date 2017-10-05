@@ -3,6 +3,7 @@
 
 Name | Website | Type
 ------------ | ------- | --------
+FreePik | http://www.freepik.com/ | Vectors, PSD, Icons and photos
 Images | http://www.imagespng.com/ | png
 Pixebay | https://pixabay.com/ | photos
 Pngimg | http://pngimg.com/ | png
