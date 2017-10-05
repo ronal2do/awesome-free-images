@@ -5,9 +5,9 @@ Name | Website | Type
 ------------ | ------- | --------
 FreePik | http://www.freepik.com/ | Vectors, PSD, Icons and photos
 Images | http://www.imagespng.com/ | png
+Pexels | https://www.pexels.com/ | photos
 Pixebay | https://pixabay.com/ | photos
 Pngimg | http://pngimg.com/ | png
 PngPix | http://www.pngpix.com/ | png
 Unsplash | https://unsplash.com/ | photos
 Vecteezy | https://pt.vecteezy.com/ | vectors
-Pexels | https://www.pexels.com/ | photos
