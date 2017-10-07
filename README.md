@@ -19,3 +19,6 @@ PngPix | http://www.pngpix.com/ | png
 Unsplash | https://unsplash.com/ | photos
 Vecteezy | https://pt.vecteezy.com/ | vectors
 VisualHunt | https://visualhunt.com/ | photos
+StartupStockPhotos | http://startupstockphotos.com/ | photos
+RealisticShots | http://realisticshots.com/ | photos
+MartinVorel | https://martinvorel.tumblr.com/ | photos
