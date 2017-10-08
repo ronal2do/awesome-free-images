@@ -1,4 +1,4 @@
-# Free images, mockups and resources 
+# Free images, photos, mockups, EPS, PSD and resources sites. 
 > Do you know a website that is not on this list? Send your PR or a issue.
 
 Name | Website | Type
