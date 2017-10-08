@@ -1,5 +1,4 @@
-# awesome-free-images
-> Free images for use.     
+# Free images, mockups and resources 
 > Do you know a website that is not on this list? Send your PR or a issue.
 
 Name | Website | Type
@@ -17,7 +16,7 @@ FreePngImg | http://www.freepngimg.com/ | PNG Images, Pictures, Icons and Clip a
 Graph Berry | www.graphberry.com | mockups
 Graphic Burger | www.graphicburger.com | mockups
 Graphics Fuel | www.graphicsfuel.com | mockups
-GratisoGraphy | https://www.gratisography.com/
+GratisoGraphy | https://www.gratisography.com/ | photos
 I Brand Studio | www.ibrandstudio.com | mockups
 ImCreator | http://imcreator.com/free | photos
 Iconmoon | https://icomoon.io/ | SVG Icons
@@ -43,7 +42,7 @@ PicJumbo | https://picjumbo.com/ | photos
 PicPNG | https://www.picpng.com/ | png
 Pixabay | https://pixabay.com/ | photos
 PlusPng | http://pluspng.com/ | png
-PngAll | http://www.pngall.com/  png
+PngAll | http://www.pngall.com/ | png
 Pngimg | http://pngimg.com/ | png
 PngPix | http://www.pngpix.com/ | png
 PngTree | https://pngtree.com/ | png
