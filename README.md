@@ -4,6 +4,7 @@
 Name | Website | Type
 ------------ | ------- | --------
 Blu Graphic | www.blugraphic.com | mockups
+Burst | www.burst.shopify.com | Photos
 Diverse Device Hands | http://facebook.design/handskit | mockups
 Flat Icons | https://www.flaticon.com/ | Icons PNG, SVG, EPS, PSD and BASE 64 formats
 For Graphic TM | www.forgraphictm.com/freebies | mockups
