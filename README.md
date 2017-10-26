@@ -1,4 +1,4 @@
-# Free images, photos, mockups, EPS, PSD and resources sites. 
+# Free images, photos, mockups, EPS, PSD and resources sites.
 > Do you know a website that is not on this list? Send your PR or a issue.
 
 Name | Website | Type
@@ -11,6 +11,7 @@ Free Design Resources | www.freedesignresources.net/category/free-mockups | mock
 Free Icons PNG | http://www.freeiconspng.com/ | Icons PNG Images.
 Free Images | http://pt.freeimages.com/ | Photos
 Free PSD Templates | www.free-psd-templates.com | mockups
+FreePhotos | https://freephotos.cc | photos
 Freebies Bug | https://freebiesbug.com/ | PSD, Icons
 FreePik | http://www.freepik.com/ | Vectors, PSD, Icons and photos
 FreePngImg | http://www.freepngimg.com/ | PNG Images, Pictures, Icons and Clip arts
@@ -33,7 +34,7 @@ Mockup Love | www.mockuplove.com | mockups
 Mockup Cloud | www.mockupcloud.com/free | mockups
 Mockuuups | www.mockuuups.com/freebies | mockups
 Mockup Zone | www.mockup.zone/freebies | mockups
-Mockups Design | www.mockups-design.com | mockups 
+Mockups Design | www.mockups-design.com | mockups
 Morguefile | https://morguefile.com/ | Free photos
 NoBacks | http://nobacks.com/ | Isolated png photos
 OfficialPsds | http://www.officialpsds.com/ | psds
