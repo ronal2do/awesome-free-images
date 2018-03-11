@@ -7,6 +7,7 @@ Blu Graphic | www.blugraphic.com | mockups
 Burst | www.burst.shopify.com | Photos
 Diverse Device Hands | http://facebook.design/handskit | mockups
 Flat Icons | https://www.flaticon.com/ | Icons PNG, SVG, EPS, PSD and BASE 64 formats
+Flickr | https://www.flickr.com/creativecommons/ | (Creative Commons)
 For Graphic TM | www.forgraphictm.com/freebies | mockups
 Free Design Resources | www.freedesignresources.net/category/free-mockups | mockups
 Free Icons PNG | http://www.freeiconspng.com/ | Icons PNG Images.
