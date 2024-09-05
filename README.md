@@ -31,6 +31,7 @@ Kenney | https://kenney.nl/assets | Assets for games
 Life of Pix | http://www.lifeofpix.com/ | photos
 LStore.graphics | www.free.lstore.graphics | mockups
 MartinVorel | https://martinvorel.tumblr.com/ | photos
+Device Mockup | https://devicemockup.com/ | Device Mockups
 Mockup World | www.mockupworld.co | mockups
 Mockup Love | www.mockuplove.com | mockups
 Mockup Cloud | www.mockupcloud.com/free | mockups
